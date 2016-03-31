@@ -1,0 +1,25 @@
+.frutas {
+	width:200px; /* comentario */
+	height:200px;
+}
+#manzana1 {
+	width:400px; 
+}
+body{
+	background-color: #Black; /* codigo color */
+}
+div{
+	background-color: #27AE60;  
+}
+div h1{
+	color: #E74C3C;
+}
+
+#color {
+	background-color: #A569BD;
+}
+#forma {
+	width:200px; 
+}
+/* primero el ID (exclusivo) y después la clase (cambios generales) */ 
+/* comentario */
